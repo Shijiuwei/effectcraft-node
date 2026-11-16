@@ -1,177 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/index.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>hourly</changefreq>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/index.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/index.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/index.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/llms.txt</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/llms-full.txt</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/feed.xml</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>hourly</changefreq>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/agents.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/agents.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/architecture.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/architecture.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/contributors.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/contributors.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/control-protocol.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/control-protocol.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/effects-parity.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/effects-parity.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/effects.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/effects.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/egui-037-migration-plan.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/egui-037-migration-plan.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/file-format-parity.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/file-format-parity.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/footage.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/footage.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/gaps.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/gaps.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/hardware-parity.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/hardware-parity.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/localization-parity.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/localization-parity.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/mcp.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/mcp.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/plugins.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/plugins.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/preferences.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/preferences.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/releasing.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/releasing.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/roadmap.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/roadmap.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/scripting-parity.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/scripting-parity.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/specifications.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/specifications.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/specs-update-v1.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/target-app-parity.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/specs-update-v2.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/testing.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/target-app-parity.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/topology-guide.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/testing.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/ui-parity.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/topology-guide.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shijiuwei.github.io/effectcraft-mirror-631/docs/web.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/ui-parity.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Shijiuwei.github.io/effectcraft-node/docs/web.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
